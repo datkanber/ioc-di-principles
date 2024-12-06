@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyIOC.console", "UdemyIOC.console\UdemyIOC.console.csproj", "{BD9EB866-5226-418A-AAFF-349EF8AD82F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyIOC.Web", "UdemyIOC.Web\UdemyIOC.Web.csproj", "{180979C9-F792-47A1-BB47-B43B70F3E9A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9EB866-5226-418A-AAFF-349EF8AD82F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9EB866-5226-418A-AAFF-349EF8AD82F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9EB866-5226-418A-AAFF-349EF8AD82F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9EB866-5226-418A-AAFF-349EF8AD82F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180979C9-F792-47A1-BB47-B43B70F3E9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180979C9-F792-47A1-BB47-B43B70F3E9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180979C9-F792-47A1-BB47-B43B70F3E9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180979C9-F792-47A1-BB47-B43B70F3E9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F58270-6951-4363-AC8B-BFBB250CAE3C}
+	EndGlobalSection
+EndGlobal
